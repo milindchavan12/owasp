@@ -6,3 +6,4 @@ Following are solutions to mitigate SQL Injection
 - By applying Inline SQL parameterizationin SQL Command
 - By applying Parameter in Stored Procedure.
 - By applying Whitelisting untrusted data.
+- By using Entity Framework
