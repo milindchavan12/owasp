@@ -7,3 +7,5 @@ Following are solutions to mitigate SQL Injection
 - By applying Parameter in Stored Procedure.
 - By applying Whitelisting untrusted data.
 - By using Entity Framework
+
+## 2. XSS : Cross Site Scripting :
